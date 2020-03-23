@@ -1,0 +1,2 @@
+FROM gcr.io/linkerd-io/grafana:edge-20.3.3
+

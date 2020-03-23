@@ -1,0 +1,1 @@
+FROM gcr.io/linkerd-io/proxy:edge-20.3.3
